@@ -1,6 +1,6 @@
 # Car_Clinic
 
-The objective of the Car Clinic project is to develop a comprehensive and user-friendly online platform that showcases a diverse range of luxury car care services. This project will utilize HTML, CSS, Azure technologies, and GitHub to create an engaging website that caters specifically to the needs of luxury car owners, focusing on branded and luxurious vehicles such as Mercedes, BMW, Audi, and Rolls Royce.
+The objective of the Car Clinic project is to develop a comprehensive and user-friendly online platform that showcases a diverse range of luxury car care services. This project will utilize HTML, CSS, Javascript, Azure technologies, and GitHub to create an engaging website that caters specifically to the needs of luxury car owners, focusing on branded and luxurious vehicles such as Mercedes, BMW, Audi, and Rolls Royce.
 
 The website aims to provide an informative and visually appealing experience for visitors, offering insights into the specialized car care services offered by Car Clinic. Through the use of HTML and CSS, the website will be crafted with a user-friendly interface, facilitating seamless navigation and optimal presentation of content.
 
